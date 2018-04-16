@@ -1,4 +1,7 @@
-﻿namespace FlatBmiCalc
+// __Author__ = r-clark
+// This is my first windows application with C# to calculate a user's BMI
+
+namespace FlatBmiCalc
 {
     partial class FormMain
     {
